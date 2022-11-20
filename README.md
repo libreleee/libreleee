@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Operating System & Tools
 
 ![visual-studio](https://user-images.githubusercontent.com/117779419/202929324-2960a3a0-19ce-4314-8e03-87421b25522d.png)
 ![intellij](https://user-images.githubusercontent.com/117779419/202929261-d02a9305-184c-4c2e-bab8-80963aa7670d.png)
@@ -22,3 +21,6 @@ You can click the Preview link to take a look at your changes.
 |-----------------|---------------|
 | word2Vec        | abc.sh        |
 | code2Vec        | cde.sh        |
+
+
+
