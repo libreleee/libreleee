@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 | Structured      | C, Pascal |
 | Object Oriented |:+1: C++, Java, C#, Visual Basic       |
 | Functional, Machine Learning      | Python        |
-| Blockchain      | Ethreum-Solidity        |
+| Blockchain      | 🌱Ethreum-Solidity        |
 
 
 
