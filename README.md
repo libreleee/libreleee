@@ -23,10 +23,12 @@ libreleee/libreleee is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-| Embedding       | Script        |
+| Language        | Script        |
 |-----------------|---------------|
-| word2Vec        | abc.sh        |
-| code2Vec        | cde.sh        |
+| Structured      | abc.sh        |
+| Object Oriented | cde.sh        |
+| Functional      | cde.sh        |
+
 
 
 # The largest heading
