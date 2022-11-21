@@ -61,3 +61,10 @@ graph TD;
 ```
 
  ![50%](https://progress-bar.dev/50)
+ 
+
+    
+![91%](https://progress-bar.dev/91/?title=done)
+
+![28%](https://progress-bar.dev/28/?title=progress)
+    
