@@ -39,7 +39,7 @@ Database
 | style            | Name      |
 |-----------------|---------------|
 |SQL                   |Oracle, MySQL, MariaDB, MS-SQL               |
-|NoSQL               |MongDB, Redis               |
+|NoSQL               |         |
 # The largest heading
 ## The second largest heading
 ###### The smallest heading
