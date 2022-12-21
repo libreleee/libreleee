@@ -43,7 +43,7 @@ Database
 
 Tool
 
-| style            | Name      |
+| Type            | Name      |
 |-----------------|---------------|
 |Design                   |Figma, Draw.io               |
 
