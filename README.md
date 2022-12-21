@@ -40,6 +40,13 @@ Database
 |-----------------|---------------|
 |SQL                   |Oracle, MySQL, MariaDB, MS-SQL               |
 |NoSQL               |         |
+
+Tool
+
+| style            | Name      |
+|-----------------|---------------|
+|Design                   |Figma, Draw.io               |
+
 # The largest heading
 ## The second largest heading
 ###### The smallest heading
