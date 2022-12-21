@@ -70,14 +70,6 @@ $\color[gray]{0.3} hello$
 @@ text in purple (and bold)@@
 ```
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
  ![50%](https://progress-bar.dev/50)
  
 
