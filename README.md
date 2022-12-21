@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## Tools & Operation System 
-
+## Operation System & Tools
+ 
 :+1:![visual-studio](https://user-images.githubusercontent.com/117779419/202929324-2960a3a0-19ce-4314-8e03-87421b25522d.png)
 ![intellij](https://user-images.githubusercontent.com/117779419/202929261-d02a9305-184c-4c2e-bab8-80963aa7670d.png)
 ![eclipse](https://user-images.githubusercontent.com/117779419/202929268-1e55da6e-a36f-4756-bcfb-db3d36880605.png)
@@ -14,14 +14,18 @@
 
 
 
-
-
-
 | Platform            | OS        |
 |-----------------|---------------|
 | Unix      | HP-UX |
 | Linux      | CentOS, Ubuntu |
 | Windows    | Windows10 |
+
+Tool
+
+| Type            | Name      |
+|-----------------|---------------|
+|IDE                   |VisualStudio, IntelliJ, eclipse, PyCharm, VisualStudio Code               |
+|Design                   |Figma, Draw.io               |
 
 ## Technology Stack
 
@@ -46,11 +50,7 @@ Database
 |SQL                   |Oracle, MySQL, MariaDB, MS-SQL               |
 |NoSQL               |         |
 
-Tool
 
-| Type            | Name      |
-|-----------------|---------------|
-|Design                   |Figma, Draw.io               |
 
 # The largest heading
 ## The second largest heading
