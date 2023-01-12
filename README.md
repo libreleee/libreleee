@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @libreleee
 - 👀 I’m interested in ... Machine Learning, Blockchain , DApp, DeFi
-- 🌱 I’m currently learning ... Machine Learning, **Reinforcement Learning**(강화학습), Flutter for MultiPlatform
+- 🌱 I’m currently learning ... Machine Learning, **Reinforcement Learning**(강화학습), Flutter for Multi Platform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
