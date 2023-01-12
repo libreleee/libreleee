@@ -56,22 +56,7 @@ Database
 ## The second largest heading
 ###### The smallest heading
 
-$\color[rgb]{1,0,1} hello$
-
-$\color[RGB]{155,127,0} hello$  rgb(46,139,87)
-
-$\color[gray]{0.3} hello$
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
- ![50%](https://progress-bar.dev/50)
- 
+$
 
     
 ![91%](https://progress-bar.dev/91/?title=done)
