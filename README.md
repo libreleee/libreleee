@@ -50,16 +50,3 @@ Database
 |SQL                   |Oracle, MySQL, MariaDB, MS-SQL               |
 |NoSQL               |         |
 
-
-
-# The largest heading
-## The second largest heading
-###### The smallest heading
-
-$
-
-    
-![91%](https://progress-bar.dev/91/?title=done)
-
-![28%](https://progress-bar.dev/28/?title=progress)
-    
