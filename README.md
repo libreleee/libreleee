@@ -10,8 +10,9 @@
 
 ![GitHub Streak](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=libreleee&&show_icons=true&theme=light)
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact")
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libreleee&theme=tokyonight)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libreleee&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+ 
  
 ## Operation System & Tools
 
