@@ -8,12 +8,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=libreleee&theme=default)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=libreleee&&show_icons=true&theme=light)
 
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libreleee&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
 ## Operation System & Tools
 
 | Field            | tool        |
@@ -59,3 +54,9 @@ Database
 |SQL                   |Oracle, MySQL, MariaDB, MS-SQL               |
 |NoSQL               |         |
 
+
+![GitHub Streak](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=libreleee&&show_icons=true&theme=light)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libreleee&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
