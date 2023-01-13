@@ -12,6 +12,11 @@
 ![pycharm](https://user-images.githubusercontent.com/117779419/202929278-4e7760ae-4e0d-4807-93ed-56e7b02c047b.png)
 ![visual-studio-code](https://user-images.githubusercontent.com/117779419/202929286-ee947981-1b41-4cf6-97c6-697268d23170.png):shipit: ![figma](https://user-images.githubusercontent.com/117779419/208801895-080495f9-36e5-4971-9861-6e4226b2a201.png) ![draw-io](https://user-images.githubusercontent.com/117779419/208802547-6d3466db-4803-4a56-b45b-78c420fd7e99.png)
 
+![visual-studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
+https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
 
 
 | Platform            | OS        |
