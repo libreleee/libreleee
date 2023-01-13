@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=libreleee)](https://github.com/libreleee/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=libreleee&theme=default)](https://git.io/streak-stats)
+
+![GitHub Streak](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=libreleee&&show_icons=true&theme=light)
+
 
 ## Operation System & Tools
 
