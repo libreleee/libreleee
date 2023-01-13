@@ -51,7 +51,7 @@ Database
 
 | style            | Name      |
 |-----------------|---------------|
-|SQL                   |Oracle, MySQL, MariaDB, MS-SQL               |
+|RDBMS-SQL                   |Oracle, MySQL, MariaDB, MS-SQL               |
 |NoSQL               |         |
 
 
