@@ -55,8 +55,13 @@ Database
 
 | style            | Name      |
 |-----------------|---------------|
-|RDBMS-SQL                   |Oracle, MySQL, MariaDB, MS-SQL               |
+|RDBMS-SQL                   |Oracle, MySQL, MariaDB, MS-SQL, PostgreSQL               |
 |NoSQL               |         |
+
+Micro Service Archetecture
+| style            | Name      |
+|-----------------|---------------|
+|Structure                   |Docker, kubernetes|
 
 
 ![GitHub Streak](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=libreleee&&show_icons=true&theme=light)
