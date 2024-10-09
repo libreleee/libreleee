@@ -47,6 +47,7 @@ Program Language
 | Structured      | C, Pascal |
 | Object Oriented |:+1: C++, Java, C#, Visual Basic       |
 | Functional, Machine Learning      | Python        |
+| In the past, like C | Go       |
 | Blockchain      | 🌱Ethreum-Solidity        |
 
 
