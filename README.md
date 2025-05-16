@@ -49,6 +49,7 @@ Program Language
 | Functional, Machine Learning      | Python        |
 | In the past, like C | Go       |
 | Blockchain      | 🌱Ethreum-Solidity        |
+| On going      | 🌱Rust        |
 
 
 Database
