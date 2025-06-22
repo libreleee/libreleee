@@ -5,7 +5,8 @@
 - Currently developing OCPP program in Python and Go,
  I am proceeding by referring to open source. ... python -> mobilityhouse/ocpp, go -> lorenzodonini/ocpp-go
 - 💞️ I’m looking to collaborate on ...  OCPP, ML Reinforcement Learning ...
-- 📫 How to reach me ...
+- ocpp 1.6 OCA certification completed 2025-03, ocpp 1.6 CSMS certification preparation complete, ocpp 2.0.1 in progress
+- 📫 How to reach me ... libertyleee0@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=libreleee&color=green)
 
