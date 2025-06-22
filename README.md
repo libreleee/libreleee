@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @libreleee
-- 👀 I’m interested in ... Machine Learning, Blockchain , DApp, DeFi, Rust - on going...
+- 👀 I’m interested in ... Machine Learning, Blockchain , DApp, DeFi, Go :+1:, Rust - on going...
 - 🌱 I’m currently learning Newbie... Machine Learning,**Reinforcement Learning**(강화학습)![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![tensflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) Flutter for Multiplatform ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- 🌱 Ollama WebUI, AI agent service for SaaS, is being designed and developed in preparation, similar to manus
 
 - Currently developing OCPP program in Python and Go,
  I am proceeding by referring to open source. ... python -> mobilityhouse/ocpp, go -> lorenzodonini/ocpp-go
