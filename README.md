@@ -1,7 +1,9 @@
 - 👋 Hi, I'm @libreleee
 - 👀 I'm interested in ... Machine Learning, Blockchain , DApp, DeFi, Go :+1:, Rust - on going...
-- 🌱 I'm currently learning & Trying & Training & Training with MLflow, Airflow  ... Machine Learning,**Reinforcement Learning**, ML-XGBoost/LightGBM/CatBoost algorythm, DL-Transformer, Chronos, PatchTST,TimeGPT
-- 🌱 Ollama WebUI, AI agent service for SaaS, is being designed and developed in preparation, similar to manus
+- 🌱 I'm currently learning & Trying & Training & Training with MLflow, Airflow
+-    ... Machine Learning, ML-XGBoost/LightGBM/CatBoost algorythm, DL-Transformer, Chronos, PatchTST,TimeGPT
+-    **Reinforcement Learning**
+- 🌱 Ollama,LM Studio WebUI, AI agent service for SaaS, is being designed and developed in preparation, similar to manus
 
 - Currently developing OCPP program in Python and Go,
  I am proceeding by referring to open source. ... python -> mobilityhouse/ocpp, go -> lorenzodonini/ocpp-go
