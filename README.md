@@ -3,7 +3,7 @@
     - with MLflow, Airflow, Machine Learning, ML-XGBoost/LightGBM/CatBoost, DL-Transformer, Chronos, PatchTST,TimeGPT, **Reinforcement Learning**, A3C -> PPO
     - GenAI- Multi agent with Autogen, CrewAI, LangGraph
     - The name of the project I'm working on now is Orchestra Feat. a2a,mcp
-- My favorite languages are C++, Python, and Go., "I’d like to add Rust as well."
+- My favorite languages are C++, Python, and Go., "I’m also learning Rust these days."
 - Currently developing OCPP program in Python and Go,
  I am proceeding by referring to open source. ... python -> mobilityhouse/ocpp, go -> lorenzodonini/ocpp-go
 
