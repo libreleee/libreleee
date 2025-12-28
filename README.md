@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @libreleee
 - 👀🌱 I'm currently learning ML, DL, GenAI & Trying & Training 
-    - with MLflow, Airflow, Machine Learning, ML-XGBoost/LightGBM/CatBoost algorythm, DL-Transformer, Chronos, PatchTST,TimeGPT, **Reinforcement Learning**, A3C -> PPO
+    - with MLflow, Airflow, Machine Learning, ML-XGBoost/LightGBM/CatBoost, DL-Transformer, Chronos, PatchTST,TimeGPT, **Reinforcement Learning**, A3C -> PPO
     - GenAI- Multi agent with Autogen, CrewAI, LangGraph
     - The name of the project I'm working on now is Orchestra Feat. a2a,mcp
 - My favorite programming languages are C++, Python, and Go.
