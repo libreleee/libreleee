@@ -1,9 +1,8 @@
 - 👋 Hi, I'm @libreleee
-- 👀 I'm interested in ... Machine Learning, Blockchain , DApp, DeFi, Go :+1:, Rust - on going...
-- 🌱 I'm currently learning ML, DL, GenAI & Trying & Training 
--    - with MLflow, Airflow, Machine Learning, ML-XGBoost/LightGBM/CatBoost algorythm, DL-Transformer, Chronos, PatchTST,TimeGPT, **Reinforcement Learning**, A3C -> PPO
--    - GenAI- Multi agent with Autogen, CrewAI, LangGraph
-     - The name of the project I'm working on now is Orchestra Feat. a2a,mcp
+- 👀🌱 I'm currently learning ML, DL, GenAI & Trying & Training 
+    - with MLflow, Airflow, Machine Learning, ML-XGBoost/LightGBM/CatBoost algorythm, DL-Transformer, Chronos, PatchTST,TimeGPT, **Reinforcement Learning**, A3C -> PPO
+    - GenAI- Multi agent with Autogen, CrewAI, LangGraph
+    - The name of the project I'm working on now is Orchestra Feat. a2a,mcp
 
 - Currently developing OCPP program in Python and Go,
  I am proceeding by referring to open source. ... python -> mobilityhouse/ocpp, go -> lorenzodonini/ocpp-go
