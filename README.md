@@ -2,7 +2,7 @@
 - 👀 I'm interested in ... Machine Learning, Blockchain , DApp, DeFi, Go :+1:, Rust - on going...
 - 🌱 I'm currently learning & Trying & Training with MLflow, Airflow
 -    ... Machine Learning, ML-XGBoost/LightGBM/CatBoost algorythm, DL-Transformer, Chronos, PatchTST,TimeGPT
--    **Reinforcement Learning**
+-    **Reinforcement Learning**, A3C -> PPO
 - 🌱 Ollama,LM Studio WebUI, AI agent service for SaaS, is being designed and developed in preparation, similar to manus
 
 - Currently developing OCPP program in Python and Go,
