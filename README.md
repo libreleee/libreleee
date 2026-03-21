@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @libreleee
+- 👋 Hi, I'm @libreleee (turtle)
 - 👀🌱 I'm currently learning ML, DL, GenAI & Trying & Training 
     - with MLflow, Airflow, Machine Learning, ML-XGBoost/LightGBM/CatBoost, DL-Transformer, Chronos, PatchTST,TimeGPT, **Reinforcement Learning**, A3C -> PPO
     - GenAI- Multi agent with Autogen, CrewAI, LangGraph
@@ -24,7 +24,6 @@
 | Message Bus      |![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) ![TIBCO Rendezvous](https://img.shields.io/badge/TIBCO%20Rendezvous-Blue?style=for-the-badge&logo=tibco&logoColor=white)
 
 |
-
 
 | Platform            | OS        |
 |-----------------|---------------|
@@ -67,7 +66,7 @@ Database
 Micro Service Archetecture
 | style            | Name      |
 |-----------------|---------------|
-|Structure                   |Docker, kubernetes|
+|Structure                   |Docker, kubernetes| 
 
 
 ![GitHub Streak](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=libreleee&&show_icons=true&theme=light)
