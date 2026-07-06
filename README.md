@@ -83,7 +83,7 @@ Think  →  Test  →  Operate  →  Recover  →  Improve
 - 👀🌱 I'm currently learning ML, DL, GenAI & Trying & Training 
     - with MLflow, Airflow, Machine Learning, ML-XGBoost/LightGBM/CatBoost, DL-Transformer, Chronos, PatchTST,TimeGPT, **Reinforcement Learning**, A3C -> PPO
     - GenAI- Multi agent with Autogen, CrewAI, LangGraph
-    - The name of the project I'm working on now is Orchestra Feat. a2a,mcp
+    - The name of the project I'm working on now JARVIS and Orchestra Feat. a2a
 - My favorite languages are C++, Python, and Go., "I’m also learning Rust these days."
 - Currently developing OCPP program in Python and Go,
  I am proceeding by referring to open source. ... python -> mobilityhouse/ocpp, go -> lorenzodonini/ocpp-go
