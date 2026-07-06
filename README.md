@@ -3,7 +3,7 @@
 # 🧠 J.A.R.V.I.S.
 
 ### Just A Rather Very Intelligent System
-#### 그냥 좀 많이 똑똑한 에이전트 팀을 만드는 프로젝트
+#### J.A.R.V.I.S. 그냥 좀 많이 똑똑한 에이전트 팀을 만드는 프로젝트
 
 <br/>
 
@@ -22,20 +22,18 @@
 
 ## 🚀 Project Vision
 
-**J.A.R.V.I.S.**는 단일 AI 챗봇이 아니라,  
-여러 개의 전문 에이전트들이 협력하여 문제를 분석하고, 개선안을 만들고, 시스템을 안정적으로 운영하는  
-**지능형 에이전트 팀(Intelligent Agent Team)**을 목표로 합니다.
+**J.A.R.V.I.S.** is not a single AI chatbot.  
+It aims to become an **Intelligent Agent Team** where multiple specialized agents collaborate to analyze problems, design improvements, and operate systems reliably.
 
-이 프로젝트는 다음 네 가지 핵심 개념을 기반으로 합니다.
+This project is built on four core ideas.
 
 - **Genetic Algorithm**
 - **RSI — Recursive Self-Improvement**
 - **Agent SRE — Site Reliability Engineering**
 - **Digital Twin**
 
-즉, J.A.R.V.I.S.는 단순히 명령을 수행하는 도구가 아니라,  
-스스로 실험하고, 평가하고, 개선하며, 실제 시스템과 가상 환경을 함께 이해하는  
-**자기개선형 AI 운영 에이전트 팀**을 지향합니다.
+In other words, J.A.R.V.I.S. is not just a tool that follows commands.  
+It is designed as a **self-improving AI operations agent team** that can experiment, evaluate, improve, and understand both real systems and virtual environments.
 
 ---
 
@@ -43,15 +41,15 @@
 
 > **“Build an agent team that can think, test, operate, recover, and improve itself.”**
 
-J.A.R.V.I.S.는 다음과 같은 능력을 가진 시스템을 목표로 합니다.
+J.A.R.V.I.S. aims to become a system with the following capabilities.
 
-- 문제를 스스로 분해하는 능력
-- 여러 해결책을 생성하고 비교하는 능력
-- 유전 알고리즘처럼 더 좋은 전략을 선택하는 능력
-- 실패 원인을 분석하고 복구하는 **Agent SRE** 능력
-- 디지털 트윈 환경에서 안전하게 시뮬레이션하는 능력
-- 실행 결과를 바탕으로 자기 자신을 개선하는 **RSI** 구조
-- 개발자와 함께 성장하는 AI 파트너 역할
+- Decompose problems autonomously
+- Generate and compare multiple solution strategies
+- Select stronger strategies through a genetic algorithm-inspired process
+- Analyze failures and recover through **Agent SRE** capabilities
+- Safely simulate changes inside a **Digital Twin** environment
+- Improve itself through an **RSI — Recursive Self-Improvement** loop
+- Grow alongside the developer as an AI engineering partner
 
 ---
 
@@ -59,10 +57,10 @@ J.A.R.V.I.S.는 다음과 같은 능력을 가진 시스템을 목표로 합니�
 
 | Concept | Meaning | Role in J.A.R.V.I.S. |
 |---|---|---|
-| **Genetic Algorithm** | 진화 알고리즘 기반 탐색과 최적화 | 여러 해결 전략을 생성하고, 평가하고, 더 나은 전략을 선택 |
-| **RSI**<br/>Recursive Self-Improvement | 재귀적 자기개선 | 에이전트가 자신의 판단, 프롬프트, 워크플로우, 코드 품질을 반복적으로 개선 |
-| **Agent SRE**<br/>Site Reliability Engineering | AI 기반 시스템 신뢰성 운영 | 장애 탐지, 원인 분석, 복구 제안, 운영 자동화 |
-| **Digital Twin** | 현실 시스템의 가상 복제 모델 | 실제 시스템 변경 전 시뮬레이션, 예측, 안전한 테스트 수행 |
+| **Genetic Algorithm** | Evolutionary search and optimization | Generates multiple strategies, evaluates them, and selects stronger ones |
+| **RSI**<br/>Recursive Self-Improvement | Recursive self-improvement | Repeatedly improves agent reasoning, prompts, workflows, and code quality |
+| **Agent SRE**<br/>Site Reliability Engineering | AI-assisted reliability operations | Detects incidents, analyzes root causes, suggests recovery actions, and automates operations |
+| **Digital Twin** | A virtual replica of a real-world system | Enables simulation, prediction, and safer testing before changing real systems |
 
 ---
 
