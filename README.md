@@ -1,7 +1,7 @@
 <div align="center">
 
-# <img width="219" height="234" alt="image" src="https://github.com/user-attachments/assets/2cd3d6a5-5c91-4765-bd12-7f97b5eaea1e" />
- J.A.R.V.I.S.
+# <img width="217" height="230" alt="image" src="https://github.com/user-attachments/assets/5b6bf08b-1a2e-4abf-9f91-cb8dd7da9c2b" />
+J.A.R.V.I.S.
 
 ### Just A Rather Very Intelligent System
 #### J.A.R.V.I.S. 그냥 좀 많이 똑똑한 에이전트 팀을 만드는 프로젝트
