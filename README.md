@@ -151,6 +151,9 @@ Micro Service Archetecture
 AirFlow Monitoring
 <img width="2364" height="1267" alt="image" src="https://github.com/user-attachments/assets/ab6ac90b-7b1f-4175-b03f-7f160f04e852" />
 
+MlFlow Monitoring
+<img width="2377" height="1321" alt="image" src="https://github.com/user-attachments/assets/5af7ed9c-ddc0-4382-96ef-bbf16a035389" />
+
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=libreleee&show_icons=true&theme=light)](https://github.com/stats-organization/github-stats-extended)
 
