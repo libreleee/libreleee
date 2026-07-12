@@ -1,6 +1,7 @@
 <div align="center">
 
-# <img width="217" height="230" alt="image" src="https://github.com/user-attachments/assets/5b6bf08b-1a2e-4abf-9f91-cb8dd7da9c2b" />
+<img width="266" height="294" alt="image" src="https://github.com/user-attachments/assets/ebbbcaed-9199-4ef7-8bd3-1fcdd3bd3f9e" />
+
 J.A.R.V.I.S.
 
 ### Just A Rather Very Intelligent System
@@ -18,7 +19,6 @@ J.A.R.V.I.S.
 <img src="https://img.shields.io/badge/Digital%20Twin-Simulation%20Layer-FF2BD6?style=for-the-badge&labelColor=05000f" />
 
 </div>
-
 ---
 
 ## 🚀 Project Vision
@@ -77,6 +77,7 @@ Think  →  Test  →  Operate  →  Recover  →  Improve
 
 </div>
 
+<img width="217" height="230" alt="image" src="https://github.com/user-attachments/assets/5b6bf08b-1a2e-4abf-9f91-cb8dd7da9c2b" />
 ---
 
 - 👋 Hi, I'm @libreleee (turtle)
