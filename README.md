@@ -105,18 +105,6 @@ Think  →  Test  →  Operate  →  Recover  →  Improve
 | Play      |![arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![rasbp](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) |
 | Message Bus      |![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) ![TIBCO Rendezvous](https://img.shields.io/badge/TIBCO%20Rendezvous-Blue?style=for-the-badge&logo=tibco&logoColor=white) |
 
-| Platform            | OS        |
-|-----------------|---------------|
-| Unix      | HP-UX |
-| Linux      | CentOS, Ubuntu |
-| Windows    | Windows10 |
-
-Tool
-
-| Type            | Name      |
-|-----------------|---------------|
-|IDE                   |VisualStudio, IntelliJ, eclipse, PyCharm, VisualStudio Code               |
-|Design                   |Figma, Draw.io               |
 
 ## Technology Stack
 
