@@ -156,7 +156,7 @@ MLOps
 |-----------------|---------------|
 |Workflow Orchestration         |Apache Airflow|
 |Experiment Tracking & Model Registry        |MLflow|
-|Model Serving & Deployment        |KServe(ML), BentoML(ML+LLM, vLLM(LLM Only)|
+|Model Serving & Deployment        |KServe(ML), BentoML(ML+LLM), vLLM(LLM Only)|
 |Data & Model Versioning        |DVC, lakeFS|
 |Feature Store        |Feast|
 |Model Monitoring & Observability       |Evidently AI(ML Side) ,Langfuse(LLM side)|
