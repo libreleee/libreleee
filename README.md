@@ -133,7 +133,7 @@ Program Language
 | Functional, Machine Learning      | Python        |
 | In the past, like C | Go       |
 | Blockchain      | 🌱Ethreum-Solidity        |
-| S3 Compatible Storage | 🌱ceph, SeaweedFS, Apache Ozone(The Evolution of HDFS), MinIO(Community Edition is officially deprecated, Commercialized),   RustFS(Fast, but still in the stabilization phase), ,          |
+| S3 Compatible Storage | 🌱ceph, SeaweedFS, Apache Ozone(The Evolution of HDFS), MinIO(Community Edition is officially deprecated, Commercialized),   RustFS(Fast, but still in the stabilization phase)    |
 | On going      | 🌱Rust, Airflow, MLflow,  |
 
 
@@ -143,7 +143,13 @@ Database
 |-----------------|---------------|
 |RDBMS-SQL                   |Oracle, MySQL, MariaDB, MS-SQL, PostgreSQL               |
 |NoSQL               |MongoDB, Redis(cache, ValKey), Cassandra, DynamoDB,Neo4j         |
-|OLAP               | Trino(Presto), ClickHouse, DuckDB, Greenplum,Apache Druid, Apache Pinot, Apache Doris, StarRocks,          |
+|OLAP               | ClickHouse, DuckDB, Greenplum,Apache Druid, Apache Pinot, Apache Doris, StarRocks       |
+
+Distributed Engine
+| style            | Name      |
+|-----------------|---------------|
+|Processing Engine         |Apache Spark, Apache Flink, Ray, Dask, Apache Hive, Apache Hadoop MapReduce,  |
+|Query Engine        |Trino(Presto), |
 
 
 Micro Service Archetecture
