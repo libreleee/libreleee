@@ -142,7 +142,9 @@ Database
 | style            | Name      |
 |-----------------|---------------|
 |RDBMS-SQL                   |Oracle, MySQL, MariaDB, MS-SQL, PostgreSQL               |
-|NoSQL               |         |
+|NoSQL               |MongoDB, Redis(cache, ValKey), Cassandra, DynamoDB,Neo4j         |
+|OLAP               | Trino(Presto), ClickHouse, DuckDB, Greenplum,Apache Druid, Apache Pinot, Apache Doris, StarRocks,          |
+
 
 Micro Service Archetecture
 | style            | Name      |
