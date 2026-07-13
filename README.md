@@ -151,6 +151,19 @@ Distributed Engine
 |Processing Engine         |Apache Spark, Apache Flink, Ray, Dask, Apache Hive, Apache Hadoop MapReduce,  |
 |Query Engine        |Trino(Presto),  Apache Spark SQL, Apache Impala(C++), Dremio(Community Edition, Apache Arrow 기반), Apache Drill |
 
+MLOps
+| style            | Name      |
+|-----------------|---------------|
+|Workflow Orchestration         |Apache Airflow|
+|Experiment Tracking & Model Registry        |MLflow|
+|Model Serving & Deployment        |KServe(ML), BentoML(ML+LLM, vLLM(LLM Only)|
+|Data & Model Versioning        |DVC, lakeFS|
+|Feature Store        |Feast|
+|Model Monitoring & Observability       |Evidently AI(ML Side) ,Langfuse(LLM side)|
+|Feature Store        |Feast|
+|Hyperparameter Optimization        |Optuna|
+|End-to-End MLOps Platform       |Kubeflow|
+
 
 Micro Service Archetecture
 | style            | Name      |
