@@ -133,7 +133,7 @@ Program Language
 | Functional, Machine Learning      | Python        |
 | In the past, like C | Go       |
 | Blockchain      | 🌱Ethreum-Solidity        |
-| S3  Compatible Storage | 🌱ceph,SeaweedFS, Apache Ozone, MinIO(Community Edition is officially deprecated, Commercialized),   RustFS(Fast, but still in the stabilization phase), ,          |
+| S3 Compatible Storage | 🌱ceph, SeaweedFS, Apache Ozone(The Evolution of HDFS), MinIO(Community Edition is officially deprecated, Commercialized),   RustFS(Fast, but still in the stabilization phase), ,          |
 | On going      | 🌱Rust, Airflow, MLflow,  |
 
 
