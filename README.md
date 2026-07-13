@@ -149,7 +149,7 @@ Distributed Engine
 | style            | Name      |
 |-----------------|---------------|
 |Processing Engine         |Apache Spark, Apache Flink, Ray, Dask, Apache Hive, Apache Hadoop MapReduce,  |
-|Query Engine        |Trino(Presto), |
+|Query Engine        |Trino(Presto),  Apache Spark SQL, Apache Impala(C++), Dremio(Community Edition, Apache Arrow 기반), Apache Drill |
 
 
 Micro Service Archetecture
