@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="278" height="323" alt="image" src="https://github.com/user-attachments/assets/0144df1f-251b-497d-8893-e1a2e8e83080" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8a734d85-9d3e-4c59-8c2f-f9882376ca87" />
 
 J.A.R.V.I.S.
 
